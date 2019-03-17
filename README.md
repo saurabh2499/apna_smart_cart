@@ -18,12 +18,14 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ML Part:
 
-for training model: train.ipynb
-for database management : db_management.py
-for predicting the object: predict.py
+for training model: train.ipynb.
+
+for database management : db_management.py.
+
+for predicting the object: predict.py.
 
 
 ## Image processing 
-for connecting all components, image processing and initialize the changes in database:detect_model.py
+for connecting all components, image processing and initialize the changes in database:detect_model.py.
 
 
